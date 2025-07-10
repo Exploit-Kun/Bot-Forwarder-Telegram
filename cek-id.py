@@ -1,8 +1,8 @@
 from telethon import TelegramClient
 
 # Konfigurasi API Telegram
-MESSAGE_IDS = [9999999] #ID MESSAGE YANG SUDAH DI AMBIL DARI ID.PY
-ADMIN_ID = 9999999 #UBAH MENJADI ID TELEGRAM ADMIN
+API_ID = '9999999' 
+API_HASH = '9999999'
 SESSION_NAME = 'my_account'
 
 # Saved Messages alias
